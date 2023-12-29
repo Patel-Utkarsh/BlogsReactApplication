@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.headerDiv{
+    height: 70px;
+    width: 100vw;
+    border: 1px solid black;
+    box-shadow: 1px 1px 10px;
+    position: fixed;
+    top: 0;
+    background-color: white;
+}
+#heading{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 15px;
+
+}
+

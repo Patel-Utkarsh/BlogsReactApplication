@@ -1,0 +1,22 @@
+.footerDiv{
+    height: 60px;
+    width: 100vw;
+    background-color: white;
+    border-top: 1px solid black;
+    box-shadow: 0px -8px 5px -3px rgba(0,0,0,0.39);
+    -webkit-box-shadow: 0px -8px 5px -3px rgba(0,0,0,0.39);
+    -moz-box-shadow: 0px -8px 5px -3px rgba(0,0,0,0.39);
+    position: fixed;
+    bottom: 0;
+  
+   
+}
+
+.btnClass{
+    display: flex;
+    gap: 5px;
+    margin-left: 80px;
+
+}
+
+

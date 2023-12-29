@@ -1,0 +1,14 @@
+.singleCard{
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.tagsSp{
+    margin-right: 5px;
+    color: #1d56db;
+    text-decoration: underline;
+    
+}
